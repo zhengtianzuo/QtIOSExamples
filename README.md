@@ -1,3 +1,6 @@
+
+![](https://github.com/zhengtianzuo/QtIOSExamples/blob/master/QtIOSExamples.jpg?raw=true)
+
 # QtIOSExamples
 Qt IOS相关的技术分享
 
